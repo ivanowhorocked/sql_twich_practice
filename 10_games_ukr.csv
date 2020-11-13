@@ -1,4 +1,4 @@
-game,count(*)
+game,viewers
 World of Tanks,2677
 Dota 2,2220
 Counter-Strike: Global Offensive,895
@@ -9,8 +9,3 @@ The Binding of Isaac: Rebirth,68
 Hearthstone: Heroes of Warcraft,66
 DayZ,36
 Rocket League,29
-SpeedRunners,13
-Fallout 3,11
-ARK: Survival Evolved,11
-Duck Game,4
-Gaming Talk Shows,3
